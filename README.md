@@ -1,4 +1,4 @@
-# TL2-MIKURO_VANILLA_CLASS_REQ_RM
+# MIKURO_VANILLA_CLASS_REQ_RM
 This MOD removes the class requirements in the Torchlight II Vanilla items.
 
 ## Installation
