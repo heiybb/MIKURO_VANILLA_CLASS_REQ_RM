@@ -1,0 +1,8 @@
+# GUTS will generate these files when building the mod pack
+*.BINDAT
+*.BINLAYOUT
+*.MPP
+*.RAW
+
+# MOD NAH
+*.MOD
